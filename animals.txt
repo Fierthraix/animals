@@ -19,6 +19,7 @@ Alaskan Malamute
 Albatross
 Aldabra Giant Tortoise
 Alligator
+Alpaca
 Alpine Dachsbracke
 American Bulldog
 American Cocker Spaniel
@@ -28,12 +29,17 @@ American Foxhound
 American Pit Bull Terrier
 American Staffordshire Terrier
 American Water Spaniel
+Anaconda
 Anatolian Shepherd Dog
+Anemone
 Angelfish
+Anglerfish
+Anole
 Ant
 Anteater
 Antelope
 Appenzeller Dog
+Archerfish
 Arctic Fox
 Arctic Hare
 Arctic Wolf
@@ -47,9 +53,11 @@ Australian Kelpie Dog
 Australian Mist
 Australian Shepherd
 Australian Terrier
+Aurochs
 Avocet
 Axolotl
-Aye Aye
+Aye-Aye
+Babirusa
 Baboon
 Bactrian Camel
 Badger
@@ -60,21 +68,27 @@ Barb
 Barn Owl
 Barnacle
 Barracuda
+Barramundi
 Basenji Dog
 Basking Shark
 Basset Hound
 Bat
+Bat-Eared Fox
 Bavarian Mountain Hound
 Beagle
+Beaked Whale
 Bear
 Bearded Collie
 Bearded Dragon
 Beaver
 Bedlington Terrier
 Beetle
+Beluga Whale
 Bengal Tiger
 Bernese Mountain Dog
+Bettong
 Bichon Frise
+Bilby
 Binturong
 Bird
 Birds Of Paradise
@@ -84,57 +98,82 @@ Black Bear
 Black Rhinoceros
 Black Russian Terrier
 Black Widow Spider
+Blackbird
+Blobfish
 Bloodhound
+Blue Jay
 Blue Lacy Dog
 Blue Whale
+Bluebird
 Bluetick Coonhound
+Boa Constrictor
 Bobcat
+Bobolink
 Bolognese Dog
 Bombay
 Bongo
 Bonobo
+Bontebok
 Booby
 Border Collie
 Border Terrier
-Bornean Orang-utan
+Bornean Orangutan
 Borneo Elephant
 Boston Terrier
-Bottle Nosed Dolphin
+Bottlenose Dolphin
 Boxer Dog
 Boykin Spaniel
 Brazilian Terrier
+Brolga
 Brown Bear
+Brown Hyena
 Budgerigar
+Budgie
 Buffalo
-Bull Mastiff
 Bull Shark
 Bull Terrier
 Bulldog
 Bullfrog
+Bullmastiff
 Bumble Bee
 Burmese
 Burrowing Frog
+Bushbaby
+Bushbuck
+Bushmaster
+Bustard
 Butterfly
 Butterfly Fish
+Cacomistle
 Caiman
 Caiman Lizard
 Cairn Terrier
 Camel
 Canaan Dog
+Capuchin
 Capybara
 Caracal
+Cardinal
+Caribou
 Carolina Dog
+Carolina Parakeet
+Carp
 Cassowary
 Cat
+Catbird
 Caterpillar
 Catfish
 Cavalier King Charles Spaniel
+Cavy
+Cave Bear
+Cave Lion
 Centipede
 Cesky Fousek
 Chameleon
 Chamois
 Cheetah
 Chesapeake Bay Retriever
+Chickadee
 Chicken
 Chihuahua
 Chimpanzee
@@ -144,27 +183,37 @@ Chinook
 Chinstrap Penguin
 Chipmunk
 Chow Chow
+Cicada
 Cichlid
 Clouded Leopard
 Clown Fish
 Clumber Spaniel
 Coati
 Cockroach
+Coelacanth
 Collared Peccary
 Collie
 Common Buzzard
 Common Frog
 Common Loon
 Common Toad
+Conch
+Condor
+Copperhead
 Coral
+Cormorant
+Cottonmouth
 Cottontop Tamarin
+Coucal
 Cougar
 Cow
 Coyote
 Crab
 Crab-Eating Macaque
 Crane
+Crappie
 Crested Penguin
+Cricket
 Crocodile
 Cross River Gorilla
 Curly Coated Retriever
@@ -175,18 +224,20 @@ Dalmatian
 Darwin's Frog
 Deer
 Desert Tortoise
-Deutsche Bracke
+Devil Ray
 Dhole
+Dik-Dik
 Dingo
+Dire Wolf
 Discus
 Doberman Pinscher
 Dodo
 Dog
 Dogo Argentino
-Dogue De Bordeaux
 Dolphin
 Donkey
 Dormouse
+Dove
 Dragonfly
 Drever
 Duck
@@ -200,11 +251,16 @@ Eastern Gorilla
 Eastern Lowland Gorilla
 Echidna
 Edible Frog
+Eel
+Egret
 Egyptian Mau
+Eland
 Electric Eel
 Elephant
+Elephant Bird
 Elephant Seal
 Elephant Shrew
+Elk
 Emperor Penguin
 Emperor Tamarin
 Emu
@@ -212,7 +268,7 @@ English Cocker Spaniel
 English Shepherd
 English Springer Spaniel
 Entlebucher Mountain Dog
-Epagneul Pont Audemer
+Ermine
 Eskimo Dog
 Estrela Mountain Dog
 Falcon
@@ -222,48 +278,60 @@ Field Spaniel
 Fin Whale
 Finnish Spitz
 Fire-Bellied Toad
+Firefly
 Fish
 Fishing Cat
 Flamingo
 Flat Coat Retriever
 Flounder
 Fly
+Flying Fish
 Flying Squirrel
 Fossa
 Fox
 Fox Terrier
 French Bulldog
+French Mastiff
 Frigatebird
 Frilled Lizard
 Frog
 Fur Seal
 Galapagos Penguin
 Galapagos Tortoise
+Gannet
 Gar
+Gazelle
 Gecko
 Gentoo Penguin
-Geoffroys Tamarin
+Geoffroy's Tamarin
 Gerbil
+German Hound
 German Pinscher
 German Shepherd
 Gharial
 Giant African Land Snail
+Giant Beaver
 Giant Clam
-Giant Panda Bear
+Giant Ground Sloth
+Giant Panda
 Giant Schnauzer
 Gibbon
 Gila Monster
 Giraffe
 Glass Lizard
 Glow Worm
+Gnat
 Goat
 Golden Lion Tamarin
 Golden Oriole
 Golden Retriever
+Goldfinch
 Goose
 Gopher
 Gorilla
+Grackle
 Grasshopper
+Great Auk
 Great Dane
 Great White Shark
 Greater Swiss Mountain Dog
@@ -275,13 +343,17 @@ Grey Seal
 Greyhound
 Grizzly Bear
 Grouse
+Guanaco
 Guinea Fowl
 Guinea Pig
 Guppy
+Haddock
+Halibut
 Hammerhead Shark
 Hamster
 Hare
 Harrier
+Hartebeest
 Havanese
 Hedgehog
 Hercules Beetle
@@ -290,8 +362,11 @@ Heron
 Highland Cattle
 Himalayan
 Hippopotamus
+Hoatzin
 Honey Bee
+Hoopoe
 Horn Shark
+Hornbill
 Horned Frog
 Horse
 Horseshoe Crab
@@ -313,22 +388,28 @@ Indochinese Tiger
 Indri
 Insect
 Irish Setter
-Irish WolfHound
-Jack Russel
+Irish Elk
+Irish Wolfhound
+Jack Russell Terrier
 Jackal
+Jackrabbit
 Jaguar
+Japanese Bush Warbler
 Japanese Chin
 Japanese Macaque
 Javan Rhinoceros
 Javanese
 Jellyfish
+Jerboa
+Junco
 Kakapo
 Kangaroo
-Keel Billed Toucan
+Keel-Billed Toucan
 Killer Whale
 King Crab
 King Penguin
 Kingfisher
+Kinkajou
 Kiwi
 Koala
 Komodo Dragon
@@ -336,6 +417,8 @@ Kudu
 Labradoodle
 Labrador Retriever
 Ladybird
+Lamprey
+Lark
 Leaf-Tailed Gecko
 Lemming
 Lemur
@@ -350,6 +433,7 @@ Little Penguin
 Lizard
 Llama
 Lobster
+Locust
 Long-Eared Owl
 Lynx
 Macaroni Penguin
@@ -363,15 +447,21 @@ Maltese
 Manatee
 Mandrill
 Manta Ray
+Marabou Stork
 Marine Toad
 Markhor
 Marsh Frog
 Masked Palm Civet
 Mastiff
+Mastodon
 Mayfly
 Meerkat
+Megalodon
 Millipede
+Mink
+Moa
 Minke Whale
+Mockingbird
 Mole
 Molly
 Mongoose
@@ -386,9 +476,12 @@ Moth
 Mountain Gorilla
 Mountain Lion
 Mouse
+Mudskipper
 Mule
+Musk Ox
 Neanderthal
 Neapolitan Mastiff
+Needlefish
 Newfoundland
 Newt
 Nightingale
@@ -396,21 +489,31 @@ Norfolk Terrier
 Norwegian Forest
 Numbat
 Nurse Shark
+Nyala
 Ocelot
 Octopus
 Okapi
 Old English Sheepdog
 Olm
 Opossum
-Orang-utan
+Orangutan
+Orca
+Oriole
+Oryx
+Osprey
 Ostrich
 Otter
 Oyster
+Paca
 Pademelon
+Pangolin
 Panther
 Parrot
+Passenger Pigeon
 Patas Monkey
 Peacock
+Peafowl
+Peccary
 Pekingese
 Pelican
 Penguin
@@ -421,18 +524,24 @@ Pig
 Pika
 Pike
 Pink Fairy Armadillo
+Pipit
 Piranha
 Platypus
 Pointer
 Poison Dart Frog
 Polar Bear
+Polecat
 Pond Skater
+Pont-Audemer Spaniel
 Poodle
 Pool Frog
 Porcupine
+Porpoise
 Possum
+Prairie Dog
 Prawn
 Proboscis Monkey
+Pronghorn
 Puffer Fish
 Puffin
 Pug
@@ -441,7 +550,10 @@ Purple Emperor
 Puss Moth
 Pygmy Hippopotamus
 Pygmy Marmoset
+Pyrenean Ibex
+Quagga
 Quail
+Quelea
 Quetzal
 Quokka
 Quoll
@@ -457,21 +569,28 @@ Red Panda
 Red Wolf
 Red-handed Tamarin
 Reindeer
+Rhea
 Rhinoceros
 River Dolphin
 River Turtle
+Roadrunner
 Robin
 Rock Hyrax
 Rockhopper Penguin
+Rooster
 Roseate Spoonbill
 Rottweiler
 Royal Penguin
 Russian Blue
+Sable
 Sabre-Toothed Tiger
+Saiga
 Saint Bernard
 Salamander
 Sand Lizard
+Sandpiper
 Saola
+Sardine
 Scorpion
 Scorpion Fish
 Sea Dragon
@@ -483,24 +602,33 @@ Sea Turtle
 Sea Urchin
 Seahorse
 Seal
+Secretary Bird
 Serval
 Sheep
 Shih Tzu
+Shrike
 Shrimp
 Siamese
 Siamese Fighting Fish
 Siberian
 Siberian Husky
 Siberian Tiger
+Silkworm
 Silver Dollar
+Silverfish
+Skua
 Skunk
 Sloth
+Sloth Bear
 Slow Worm
+Smelt
 Snail
 Snake
 Snapping Turtle
+Snow Leopard
 Snowshoe
 Snowy Owl
+Sole
 Somali
 South China Tiger
 Spadefoot Toad
@@ -510,6 +638,8 @@ Sperm Whale
 Spider Monkey
 Spiny Dogfish
 Sponge
+Spoonbill
+Springbok
 Squid
 Squirrel
 Squirrel Monkey
@@ -521,22 +651,27 @@ Stellers Sea Cow
 Stick Insect
 Stingray
 Stoat
+Stork
 Striped Rocket Frog
 Sumatran Elephant
-Sumatran Orang-utan
+Sumatran Orangutan
 Sumatran Rhinoceros
 Sumatran Tiger
 Sun Bear
 Swan
 Tang
-Tapanuli Orang-utan
+Tapanuli Orangutan
 Tapir
 Tarsier
 Tasmanian Devil
+Tasmanian Tiger
 Tawny Owl
 Termite
+Tern
+Terror Bird
 Tetra
 Thorny Devil
+Thylacine
 Tibetan Mastiff
 Tiffany
 Tiger
@@ -545,15 +680,21 @@ Tiger Shark
 Tortoise
 Toucan
 Tree Frog
+Triggerfish
 Tropicbird
+Trout
 Tuatara
+Tuna
 Turkey
 Turkish Angora
 Uakari
-Uguisu
 Umbrellabird
+Urial
 Vampire Bat
 Vervet Monkey
+Vicuna
+Viper
+Vole
 Vulture
 Wallaby
 Walrus
@@ -563,6 +704,7 @@ Water Buffalo
 Water Dragon
 Water Vole
 Weasel
+Weaverbird
 Welsh Corgi
 West Highland Terrier
 Western Gorilla
@@ -573,21 +715,27 @@ White Faced Capuchin
 White Rhinoceros
 White Tiger
 Wild Boar
+Wildcat
 Wildebeest
 Wolf
 Wolverine
 Wombat
+Woodchuck
 Woodlouse
 Woodpecker
 Woolly Mammoth
 Woolly Monkey
+Woolly Rhinoceros
 Wrasse
+Wren
 X-Ray Tetra
 Yak
 Yellow-Eyed Penguin
+Yellowjacket
 Yorkshire Terrier
 Zebra
 Zebra Shark
 Zebu
 Zonkey
+Zorilla
 Zorse

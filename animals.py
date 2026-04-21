@@ -34,9 +34,8 @@ def normalise(name: str) -> str:
 
 
 def canonicalise(name: str) -> str:
-    """Normalize whitespace and capitalization for display labels."""
-    collapsed = " ".join(name.split())
-    return collapsed.title()
+    """Normalize whitespace for display labels while preserving file casing."""
+    return " ".join(name.split())
 
 
 def read_animals(source: str | None = None) -> list[str]:
